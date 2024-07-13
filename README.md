@@ -7,6 +7,9 @@ a world filled with zombies and monsters. Your objective is to run away from the
 If they catch you, it's game over! This game utilizes Unity's 2D capabilities, including animations, 
 animator states, and various C# scripts for enhanced gameplay.
 
+## Where to Play 
+Play the game at https://ayar-monster-chase.vercel.app/
+
 ## 🌟 Features
 
 - 🧟‍♂️ Zombies and monsters as obstacles
